@@ -1,5 +1,5 @@
 # Smart-Doors
-An IoT-based security solution for automated door access control. Features biometric/RFID authentication, real-time logging, and remote management using C++.
+An IoT-based security solution for automated door access control. Features biometric/RFID authentication, real-time logging, and remote management using C++/Python.
 
 An intelligent access management system designed for enhanced premises security. This IoT solution automates door locking mechanisms based on verified user credentials and maintains a digital access log.
 
@@ -15,7 +15,7 @@ Security Alerts: Notifies users of unauthorized access attempts.
 # Tech Stack
 Microcontroller: ESP32 / Arduino Uno
 
-Language: C++ 
+Language: C++/Python
 
 Components: Solenoid Lock, RFID Module (MFRC522), 16x2 LCD Display
 
